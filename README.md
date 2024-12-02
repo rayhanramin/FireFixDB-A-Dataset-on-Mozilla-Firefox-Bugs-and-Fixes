@@ -1,0 +1,1 @@
+# FireFixDB-A-Dataset-on-Mozilla-Firefox-Bugs-and-Fixes
