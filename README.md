@@ -6,13 +6,14 @@ The **FireFixDB dataset** is provided as a `.bacpac` file for portability and co
 
 ## Dataset Details
 
+Since the FireFixDB is too large to commit to the GitHub Repo, please go to: [ROI: 10.5281/zenodo.14263877](https://zenodo.org/records/14263877) to download this dataset.
+
 | **Property**                 | **Value**                             |
 | ---------------------------- | ------------------------------------- |
 | **Database Name**            | `FireFixDB`                           |
 | **File Provided**            | `FireFixDB.bacpac`                    |
 | **SQL Server Compatibility** | Level 160                             |
 | **Collation**                | `SQL_Latin1_General_CP1_CI_AS`        |
-| **Database Size**            | 2896.00 MB (Data) + 174.13 MB (Index) |
 | **SQL Server Version**       | Microsoft SQL Server 2022 (RTM)       |
 
 ---
@@ -22,7 +23,6 @@ The **FireFixDB dataset** is provided as a `.bacpac` file for portability and co
 - **SQL Server Version**: The dataset is compatible with **SQL Server 2022** (RTM).
 - **Compatibility Level**: Set to **160**, ensuring compatibility with SQL Server 2022.
 - **Collation**: Uses **SQL_Latin1_General_CP1_CI_AS**, which is the default collation for SQL Server.
-- **Database Size**: The dataset has a size of **2896.00 MB** for data and **174.13 MB** for index space.
 
 ---
 
