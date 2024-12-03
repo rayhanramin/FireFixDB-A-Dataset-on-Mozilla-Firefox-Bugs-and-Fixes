@@ -27,6 +27,7 @@ The **FireFixDB dataset** is provided as a `.bacpac` file for portability and co
 ---
 
 ## Dataset Schema
+![FireFixDB](https://github.com/user-attachments/assets/78b2c1ad-e17a-4f1f-b3f2-c1a0948f40b4)
 
 ---
 
