@@ -6,7 +6,7 @@ The **FireFixDB dataset** is provided as a `.bacpac` file for portability and co
 
 ## Dataset Details
 
-Since the FireFixDB is too large to commit to the GitHub Repo, please go to: [ROI: 10.5281/zenodo.14263877](https://zenodo.org/records/14263877) to download this dataset.
+Since the FireFixDB is too large to commit to the GitHub Repo, please go to: [DOI: 10.5281/zenodo.14270215](https://zenodo.org/records/14270215) to download this dataset.
 
 | **Property**                 | **Value**                             |
 | ---------------------------- | ------------------------------------- |
